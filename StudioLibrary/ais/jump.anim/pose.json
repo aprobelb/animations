@@ -1,0 +1,3967 @@
+{
+  "metadata": {
+    "timeUnit": "film",
+    "linearUnit": "cm",
+    "angularUnit": "deg",
+    "description": "",
+    "endFrame": 60,
+    "startFrame": 0,
+    "user": "User",
+    "ctime": "1776955716",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "D:/__git-repositories/animations/AiS/ais_mik_e.ma",
+        "unresolved": "D:/__git-repositories/animations/AiS/ais_mik_e.ma",
+        "namespace": "ais_mik_e",
+        "node": "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_eRN"
+      }
+    ],
+    "mayaVersion": "2026",
+    "mayaSceneFile": "D:/__git-repositories/animations/AiS/3_Jump_anim_v001.ma"
+  }
+,
+  "objects": {
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowLowerOut_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE1"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE2"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowUpperOut_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE4"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE5"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Ear_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE7"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE8"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE9"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE10"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE11"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE12"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE13"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE14"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE15"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeUpperIn_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE17"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE18"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeBase_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE20"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE21"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE22"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE23"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE24"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidUpperIn_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE26"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE27"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidLower_L": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE29"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidLowerIn_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE31"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE32"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidLowerOut_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE34"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE35"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowUpperIn_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE37"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE38"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowBase_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE40"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE41"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE42"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowLowerIn_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE44"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE45"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendKnee1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE47"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE48"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE49"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE50"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE51"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE52"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendKnee2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE54"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE55"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE56"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE57"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE58"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE59"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendShoulder1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE61"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE62"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE63"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE64"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE65"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE66"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendShoulder2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE68"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE69"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE70"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE71"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE72"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE73"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeUpperOut_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE75"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE76"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Eye_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE78"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE79"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE80"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -8.881784197001252e-16,
+          "curve": "CURVE81"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE82"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeLowerIn_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE84"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE85"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeLowerOut_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE87"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE88"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidUpperOut_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE90"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE91"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidUpper_L": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE93"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Ankle_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE95"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE96"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE97"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE98"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE99"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE100"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE101"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE102"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE103"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Knee_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE105"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE106"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE107"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE108"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE109"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE110"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE111"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE112"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE113"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Hip_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE115"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE117"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE118"
+        },
+        "Global": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE116"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE119"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE120"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE121"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE122"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE123"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE124"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Ankle_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE126"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE127"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE128"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE129"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE130"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE131"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE132"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE133"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE134"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Knee_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE136"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE137"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE138"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE139"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE140"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE141"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE142"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE143"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE144"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Hip_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE146"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE148"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE149"
+        },
+        "Global": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE147"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE150"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE151"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE152"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE153"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE154"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE155"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Neck": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE157"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE158"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE159"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE160"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE161"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE162"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE163"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE164"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE165"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Head": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 4.116033048828292,
+          "curve": "CURVE167"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE169"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE170"
+        },
+        "Global": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE168"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE171"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE172"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.673044771682214,
+          "curve": "CURVE173"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE174"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE175"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE176"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Mouth": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE178"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE179"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE180"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE181"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE182"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowUpperIn_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE184"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE185"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowBase_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE187"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE188"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE189"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowLowerIn_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE191"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE192"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowLowerOut_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE194"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE195"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BrowUpperOut_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE197"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE198"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendKnee1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE200"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE201"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE202"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE203"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE204"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE205"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendKnee2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE207"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE208"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE209"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE210"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE211"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE212"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendHip1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE214"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE215"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE216"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE217"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE218"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE219"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendHip2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE221"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE222"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE223"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE224"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE225"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE226"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IKToes_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE228"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE229"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE230"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE231"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0000000000000002,
+          "curve": "CURVE232"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE233"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -1.7763568394002505e-15,
+          "curve": "CURVE234"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE235"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE236"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IKArm_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE246"
+        },
+        "Fatness1": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE238"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE239"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE247"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE240"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE248"
+        },
+        "Lenght1": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE241"
+        },
+        "volume": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE242"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE249"
+        },
+        "Lenght2": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE250"
+        },
+        "antiPop": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE243"
+        },
+        "Fatness2": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE251"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE244"
+        },
+        "stretchy": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE245"
+        },
+        "follow": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE252"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE253"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE254"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IKLeg_L": {
+      "attrs": {
+        "Fatness1": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE256"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE257"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE258"
+        },
+        "Lenght1": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE259"
+        },
+        "rock": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE260"
+        },
+        "antiPop": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE262"
+        },
+        "stretchy": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE264"
+        },
+        "swivel": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE266"
+        },
+        "rollEndAngle": {
+          "type": "double",
+          "value": 60.0,
+          "curve": "CURVE267"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE268"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE271"
+        },
+        "Lenght2": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE272"
+        },
+        "rollStartAngle": {
+          "type": "double",
+          "value": 30.0,
+          "curve": "CURVE274"
+        },
+        "volume": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE261"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE263"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE265"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE269"
+        },
+        "roll": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE270"
+        },
+        "Fatness2": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE273"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 24.562813315035164,
+          "curve": "CURVE275"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE276"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:RollHeel_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE278"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE279"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE280"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE281"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE282"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE283"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:RollToesEnd_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE285"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE286"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE287"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE288"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE289"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE290"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:RollToes_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE292"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE293"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE294"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE295"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE296"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE297"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IKToes_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE299"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE300"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE301"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE302"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0000000000000002,
+          "curve": "CURVE303"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE304"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -1.7763568394002505e-15,
+          "curve": "CURVE305"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE306"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE307"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:PoleArm_R": {
+      "attrs": {
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE309"
+        },
+        "lock": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE310"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE311"
+        },
+        "follow": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE312"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE313"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Eye_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE315"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE316"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE317"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE318"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE319"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeLowerIn_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE321"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE322"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeLowerOut_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE324"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE325"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidUpper_R": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE327"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidUpperOut_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE329"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE330"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidUpperIn_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE332"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE333"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidLower_R": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE335"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidLowerIn_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE337"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE338"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:LidLowerOut_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE340"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE341"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IKArm_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE351"
+        },
+        "Fatness1": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE343"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE344"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE352"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE345"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE353"
+        },
+        "Lenght1": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE346"
+        },
+        "volume": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE347"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE354"
+        },
+        "Lenght2": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE355"
+        },
+        "antiPop": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE348"
+        },
+        "Fatness2": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE356"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE349"
+        },
+        "stretchy": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE350"
+        },
+        "follow": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE357"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE358"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE359"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IKLeg_R": {
+      "attrs": {
+        "Fatness1": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE361"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE362"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE363"
+        },
+        "Lenght1": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE364"
+        },
+        "rock": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE365"
+        },
+        "antiPop": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE367"
+        },
+        "stretchy": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE369"
+        },
+        "swivel": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE371"
+        },
+        "rollEndAngle": {
+          "type": "double",
+          "value": 60.0,
+          "curve": "CURVE372"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE373"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE376"
+        },
+        "Lenght2": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE377"
+        },
+        "rollStartAngle": {
+          "type": "double",
+          "value": 30.0,
+          "curve": "CURVE379"
+        },
+        "volume": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE366"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE368"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE370"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE374"
+        },
+        "roll": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE375"
+        },
+        "Fatness2": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE378"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -22.780016150295136,
+          "curve": "CURVE380"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE381"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:RollHeel_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE383"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE384"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE385"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE386"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE387"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE388"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:RollToes_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE390"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE391"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE392"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE393"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE394"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE395"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:RollToesEnd_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE397"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE398"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE399"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE400"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE401"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE402"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendElbow1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE404"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE405"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE406"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE407"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE408"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE409"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendElbow2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE411"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE412"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE413"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE414"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE415"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE416"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendShoulder1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE418"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE419"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE420"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE421"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE422"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE423"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendShoulder2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE425"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE426"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE427"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE428"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE429"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE430"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Hips": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 5.929091801419111,
+          "curve": "CURVE432"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE433"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE434"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE435"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE436"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE437"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE438"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -10.047862696763211,
+          "curve": "CURVE439"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE440"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Chest": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -2.0439897942976533,
+          "curve": "CURVE442"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE443"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE444"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE445"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE446"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.9665701595928963,
+          "curve": "CURVE447"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -0.913170126390379,
+          "curve": "CURVE448"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.664101276628912,
+          "curve": "CURVE449"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 1.625300485683416,
+          "curve": "CURVE450"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:PoleLeg_R": {
+      "attrs": {
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE452"
+        },
+        "lock": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE453"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE454"
+        },
+        "follow": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE455"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE456"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:PoleArm_L": {
+      "attrs": {
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE458"
+        },
+        "lock": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE459"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE460"
+        },
+        "follow": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE461"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE462"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:PoleLeg_L": {
+      "attrs": {
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE464"
+        },
+        "lock": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE465"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE466"
+        },
+        "follow": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE467"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE468"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:FKIKArm_R": {
+      "attrs": {
+        "FKIKBlend": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE470"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:FKIKLeg_R": {
+      "attrs": {
+        "FKIKBlend": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE472"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:FKIKArm_L": {
+      "attrs": {
+        "FKIKBlend": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE474"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:FKIKLeg_L": {
+      "attrs": {
+        "FKIKBlend": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE476"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Root": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE478"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 7.508303623171691,
+          "curve": "CURVE479"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.6862356176772727,
+          "curve": "CURVE480"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 6.178007794354979,
+          "curve": "CURVE481"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE482"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -1.8647803460175254,
+          "curve": "CURVE483"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendHip1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE485"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE486"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE487"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE488"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE489"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE490"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendHip2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE492"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE493"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE494"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE495"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE496"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE497"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendElbow1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE499"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE500"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE501"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE502"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE503"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE504"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:BendElbow2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE506"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE507"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE508"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE509"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE510"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE511"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Main": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE513"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE514"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE515"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE516"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE517"
+        },
+        "GlobalScale": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE518"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE519"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:ThumbFinger2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE521"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE522"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE523"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE524"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE525"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 10.910769689616814,
+          "curve": "CURVE526"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE527"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE528"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE529"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:ThumbFinger1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 24.377887514045362,
+          "curve": "CURVE531"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE532"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE533"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0005214705741789042,
+          "curve": "CURVE534"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE535"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 21.07211008682614,
+          "curve": "CURVE536"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -0.495049113559229,
+          "curve": "CURVE537"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 12.346311627948797,
+          "curve": "CURVE538"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0007559335173225095,
+          "curve": "CURVE539"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IndexFinger1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE541"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE542"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE543"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE544"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE545"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.172037820462448,
+          "curve": "CURVE546"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE547"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE548"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE549"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IndexFinger2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE551"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE552"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE553"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE554"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE555"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.172037820462448,
+          "curve": "CURVE556"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE557"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE558"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE559"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:MiddleFinger2_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE561"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE562"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE563"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE564"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE565"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 10.6903936446983,
+          "curve": "CURVE566"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE567"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE568"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE569"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:MiddleFinger1_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE571"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE572"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE573"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE574"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE575"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 10.6903936446983,
+          "curve": "CURVE576"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE577"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE578"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE579"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Wrist_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -2.3295174620420456,
+          "curve": "CURVE581"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE582"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE583"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE584"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE585"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 10.121642112620487,
+          "curve": "CURVE586"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE587"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -7.362264298430672,
+          "curve": "CURVE588"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE589"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Elbow_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE591"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE592"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE593"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE594"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE595"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -25.645195642788853,
+          "curve": "CURVE596"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE597"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE598"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE599"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Shoulder_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 4.394256305173731,
+          "curve": "CURVE601"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE603"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE604"
+        },
+        "Global": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE602"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE605"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE606"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.658908275213532,
+          "curve": "CURVE607"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE608"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -21.900262251460063,
+          "curve": "CURVE609"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE610"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Scapula_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.3330177576580535,
+          "curve": "CURVE612"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE613"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -6.22178419613607,
+          "curve": "CURVE614"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE615"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.4743661262987078,
+          "curve": "CURVE616"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE617"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:JetPack": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE619"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE620"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:JetPackFlame_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE622"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE623"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE624"
+        },
+        "Flame": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE625"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:JetPackFlame_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE627"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE628"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE629"
+        },
+        "Flame": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE630"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Scapula_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 9.744647921653725,
+          "curve": "CURVE632"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE633"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -6.655198524857527,
+          "curve": "CURVE634"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE635"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -4.4452424319734245,
+          "curve": "CURVE636"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE637"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:ThumbFinger1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 16.7626840471453,
+          "curve": "CURVE639"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE640"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE641"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.054726969363280274,
+          "curve": "CURVE642"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE643"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 23.830371455223084,
+          "curve": "CURVE644"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.626438345426017,
+          "curve": "CURVE645"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -4.5115978995042,
+          "curve": "CURVE646"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0714564532285352,
+          "curve": "CURVE647"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:ThumbFinger2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE649"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE650"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE651"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE652"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE653"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 12.507960854796712,
+          "curve": "CURVE654"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE655"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE656"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE657"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IndexFinger1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE659"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE660"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE661"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE662"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE663"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.584941024962136,
+          "curve": "CURVE664"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE665"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE666"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE667"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:IndexFinger2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE669"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE670"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE671"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE672"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE673"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 7.584941024962136,
+          "curve": "CURVE674"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE675"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE676"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE677"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:MiddleFinger1_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE679"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE680"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE681"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE682"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE683"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 12.648646195881659,
+          "curve": "CURVE684"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE685"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE686"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE687"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:MiddleFinger2_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE689"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE690"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE691"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE692"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE693"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 12.648646195881659,
+          "curve": "CURVE694"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE695"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE696"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE697"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Ear_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE699"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE700"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE701"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE702"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE703"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE704"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE705"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE706"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE707"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:HairsBase": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE709"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE710"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE711"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE712"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE713"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE714"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE715"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE716"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE717"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:HairBack1": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE719"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE720"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE721"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE722"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE723"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE724"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE725"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE726"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE727"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:HairBack2": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE729"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE730"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE731"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE732"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE733"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE734"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE735"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE736"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE737"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:HairForward1": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE739"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE740"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE741"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE742"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE743"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE744"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE745"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE746"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE747"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:HairForward2": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE749"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE750"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE751"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE752"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE753"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE754"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE755"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE756"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE757"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:HairForward3": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE759"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE760"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE761"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE762"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE763"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE764"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE765"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE766"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE767"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeBase_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE769"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE770"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE771"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE772"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE773"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeUpperIn_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE775"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE776"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:EyeUpperOut_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE778"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE779"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Wrist_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -4.3462102448492885,
+          "curve": "CURVE781"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE782"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE783"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE784"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE785"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 6.710351598905668,
+          "curve": "CURVE786"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE787"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -9.536579255030237,
+          "curve": "CURVE788"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE789"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Elbow_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE791"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE792"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE793"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE794"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE795"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -24.42797132628981,
+          "curve": "CURVE796"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE797"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE798"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE799"
+        }
+      }
+    },
+    "ais_mik_e_only_torso_antipop_follow_knees_10:ais_mik_e:ais_mik_e:Shoulder_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 10.1639181907315,
+          "curve": "CURVE801"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE803"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE804"
+        },
+        "Global": {
+          "type": "double",
+          "value": 10.0,
+          "curve": "CURVE802"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE805"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE806"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 11.296981532493032,
+          "curve": "CURVE807"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE808"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -8.585720160459651,
+          "curve": "CURVE809"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE810"
+        }
+      }
+    }
+  }
+}

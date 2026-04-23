@@ -17,6 +17,15 @@
         "modified": 1776942058.7242024,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
     },
+    "../../Trash/idle.anim": {
+        "name": "idle.anim",
+        "path": "../../Trash/idle.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1776955448.8635497,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
     "../../Trash/mik_e.mirror": {
         "name": "mik_e.mirror",
         "path": "../../Trash/mik_e.mirror",
@@ -51,6 +60,33 @@
         "folder": "../../ais",
         "category": "ais",
         "modified": 1776951151.2752573,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../ais/flying.anim": {
+        "name": "flying.anim",
+        "path": "../../ais/flying.anim",
+        "type": ".anim",
+        "folder": "../../ais",
+        "category": "ais",
+        "modified": 1776955805.702498,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../ais/idle.anim": {
+        "name": "idle.anim",
+        "path": "../../ais/idle.anim",
+        "type": ".anim",
+        "folder": "../../ais",
+        "category": "ais",
+        "modified": 1776955558.0759358,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../ais/jump.anim": {
+        "name": "jump.anim",
+        "path": "../../ais/jump.anim",
+        "type": ".anim",
+        "folder": "../../ais",
+        "category": "ais",
+        "modified": 1776955716.1857922,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
     },
     "../../ais/mik_e_mirror.mirror": {
