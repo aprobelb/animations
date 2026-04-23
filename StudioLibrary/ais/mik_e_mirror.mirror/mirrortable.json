@@ -1,0 +1,826 @@
+{
+  "metadata": {
+    "left": "*_L",
+    "right": "*_R",
+    "mirrorPlane": [
+      -1,
+      1,
+      1
+    ],
+    "description": "",
+    "user": "User",
+    "ctime": "1776943240",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "D:/__git-repositories/animations/AiS/ais_mik_e.ma{1}",
+        "unresolved": "D:/__git-repositories/animations/AiS/ais_mik_e.ma",
+        "namespace": "ais_mik_e1",
+        "node": "ais_mik_eRN1"
+      }
+    ],
+    "mayaVersion": "2026",
+    "mayaSceneFile": "D:/__git-repositories/animations/AiS/8_StudioLib_CopyMirror.ma"
+  }
+,
+  "objects": {
+    "ais_mik_e1:ais_mik_e:BrowUpperIn_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowLowerIn_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowLowerOut_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowUpperOut_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Ear_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeBase_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeUpperIn_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeUpperOut_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Eye_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeLowerIn_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeLowerOut_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendShoulder1_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendShoulder2_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:MiddleFinger2_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Wrist_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Elbow_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Shoulder_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Shoulder_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IKArm_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IKLeg_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:RollHeel_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:RollToesEnd_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:FKIKLeg_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:FKIKArm_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:FKIKArm_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:FKIKLeg_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendElbow1_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendElbow2_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendShoulder1_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendShoulder2_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendKnee1_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendKnee2_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendHip1_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendHip2_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendElbow1_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendElbow2_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:RollToes_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IKToes_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IKArm_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IKLeg_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:RollHeel_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:RollToesEnd_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:RollToes_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IKToes_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:PoleArm_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Hips": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Chest": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:PoleLeg_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:PoleLeg_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:PoleArm_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Ankle_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Knee_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Hip_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Ankle_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Knee_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Hip_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:ThumbFinger1_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:ThumbFinger2_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IndexFinger1_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IndexFinger2_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:MiddleFinger2_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:MiddleFinger1_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Wrist_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Elbow_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendKnee1_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendKnee2_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendHip1_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BendHip2_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Root": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Main": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Neck": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Head": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Mouth": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowBase_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowUpperIn_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowLowerIn_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowLowerOut_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowUpperOut_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Ear_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:HairsBase": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:HairBack1": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:HairBack2": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:HairForward1": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:HairForward2": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:HairForward3": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeBase_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeUpperIn_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeUpperOut_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Eye_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeLowerIn_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:EyeLowerOut_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidUpper_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidUpperOut_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidUpperIn_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidLowerIn_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidLower_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidLowerOut_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:BrowBase_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidUpper_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidUpperOut_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidUpperIn_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidLower_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidLowerIn_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:LidLowerOut_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:JetPack": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Scapula_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:JetPackFlame_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:JetPackFlame_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:Scapula_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:ThumbFinger1_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:ThumbFinger2_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IndexFinger1_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:IndexFinger2_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "ais_mik_e1:ais_mik_e:MiddleFinger1_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    }
+  }
+}

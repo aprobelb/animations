@@ -1,0 +1,65 @@
+{
+    "../../Trash/arm_up (2).anim": {
+        "name": "arm_up (2).anim",
+        "path": "../../Trash/arm_up (2).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1776948302.3016472,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/arm_up.anim": {
+        "name": "arm_up.anim",
+        "path": "../../Trash/arm_up.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1776942058.7242024,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/mik_e.mirror": {
+        "name": "mik_e.mirror",
+        "path": "../../Trash/mik_e.mirror",
+        "type": ".mirror",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1776942785.181043,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    },
+    "../../ais": {
+        "name": "ais",
+        "path": "../../ais",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "StudioLibrary",
+        "modified": 1776941815.1193738,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../ais/arm_shake.anim": {
+        "name": "arm_shake.anim",
+        "path": "../../ais/arm_shake.anim",
+        "type": ".anim",
+        "folder": "../../ais",
+        "category": "ais",
+        "modified": 1776944418.5585728,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../ais/arm_updown.anim": {
+        "name": "arm_updown.anim",
+        "path": "../../ais/arm_updown.anim",
+        "type": ".anim",
+        "folder": "../../ais",
+        "category": "ais",
+        "modified": 1776951151.2752573,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../ais/mik_e_mirror.mirror": {
+        "name": "mik_e_mirror.mirror",
+        "path": "../../ais/mik_e_mirror.mirror",
+        "type": ".mirror",
+        "folder": "../../ais",
+        "category": "ais",
+        "modified": 1776943240.3595426,
+        "__class__": "studiolibrarymaya.mirroritem.MirrorItem"
+    }
+}
