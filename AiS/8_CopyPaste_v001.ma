@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
 //Name: 8_CopyPaste_v001.ma
-//Last modified: Thu, Apr 23, 2026 12:36:12 PM
+//Last modified: Thu, Apr 23, 2026 12:51:08 PM
 //Codeset: 1251
 file -rdi 1 -ns "AIS_MIK_E__" -rfn "AIS_MIK_E__RN" -typ "mayaAscii" "D:/AiS//AIS_MIK_E +.ma";
 file -rdi 2 -ns "ais_mik_e" -rfn "AIS_MIK_E__:ais_mik_eRN" -op "v=0;" -typ "mayaAscii"
@@ -17,20 +17,20 @@ fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202507081222-4d6919b75c";
 fileInfo "osv" "Windows 11 Pro v2009 (Build: 26100)";
-fileInfo "UUID" "A374307C-4D6C-45D2-A62B-619718665837";
+fileInfo "UUID" "26DC5C08-49C8-D19C-617F-A9BB82484889";
 fileInfo "exportedFrom" "D:/Yandex.Disk/AiS/3_Turn_anim_v001.ma";
 createNode transform -s -n "persp";
 	rename -uid "50D1CC6A-462C-E19B-0DC2-E68FFDA3CB99";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 158.18175570965823 119.40131556654342 634.84767331724765 ;
-	setAttr ".r" -type "double3" -5.8643896822616037 -341.79999999999706 2.0925317463017436e-16 ;
+	setAttr ".t" -type "double3" 303.39249060784539 204.92757773935057 440.53063552475675 ;
+	setAttr ".r" -type "double3" -13.664389682262149 -322.19999999998578 -1.0063071902503763e-15 ;
 	setAttr ".rp" -type "double3" 3.5527136788005009e-15 -4.2632564145606011e-14 -1.1368683772161603e-13 ;
 	setAttr ".rpt" -type "double3" -5.8947108819533957e-14 -5.5308378927396828e-14 6.7064694601318799e-14 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "4E8D2EBD-4102-D955-9E8F-618EDD2F7873";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 702.23432618319953;
+	setAttr ".coi" 613.98091505296509;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -8373,18 +8373,21 @@ createNode animCurveTU -n "MiddleFinger2_L_scaleZ1";
 	setAttr -s 3 ".kix[1:2]"  3.4166666666666665 0.33333333333333348;
 	setAttr -s 3 ".kiy[1:2]"  0 0;
 select -ne :time1;
-	setAttr ".o" 32;
-	setAttr ".unw" 32;
+	setAttr ".o" 90;
+	setAttr ".unw" 90;
 select -ne :hardwareRenderingGlobals;
 	setAttr ".otfna" -type "stringArray" 22 "NURBS Curves" "NURBS Surfaces" "Polygons" "Subdiv Surface" "Particles" "Particle Instance" "Fluids" "Strokes" "Image Planes" "UI" "Lights" "Cameras" "Locators" "Joints" "IK Handles" "Deformers" "Motion Trails" "Components" "Hair Systems" "Follicles" "Misc. UI" "Ornaments"  ;
 	setAttr ".otfva" -type "Int32Array" 22 0 1 1 1 1 1
 		 1 1 1 0 0 0 0 0 0 0 0 0
 		 0 0 0 0 ;
-	setAttr ".ta" 5;
+	setAttr ".ta" 0;
 	setAttr ".ts" yes;
+	setAttr ".acpp" yes;
 	setAttr ".aoon" yes;
 	setAttr ".msaa" yes;
-	setAttr ".dli" 4.1958041191101074;
+	setAttr ".aasc" 2;
+	setAttr ".laa" yes;
+	setAttr ".dli" 1.7660044431686401;
 	setAttr ".fprt" yes;
 	setAttr ".rtfm" 1;
 select -ne :renderPartition;
